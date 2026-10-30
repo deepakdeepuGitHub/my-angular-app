@@ -1,4 +1,4 @@
-FROM node:22-alpine3.11 AS angular
+FROM node:22-alpine AS angular
 
 WORKDIR /app
 
